@@ -1,6 +1,6 @@
 ---
 name: Final Project Story Template
-about: Suggest an idea for this project
+about: Backend product catalog for an e-commerce website
 title: ''
 labels: ''
 assignees: ''
